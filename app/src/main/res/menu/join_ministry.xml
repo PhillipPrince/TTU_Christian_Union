@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="My Profile"
+        android:id="@+id/userprofile"></item>
+    <item
+        android:title="Semester's Schedule"
+        android:id="@+id/semSchedule"></item>
+
+    <item
+    android:title="Church And Notifications"
+    android:id="@+id/notifications"></item>
+
+
+    <item
+        android:title="You Tube"
+        android:id="@+id/youtube"></item>
+
+    <item
+        android:title="Home"
+        android:id="@+id/home"></item>
+
+    <item
+        android:title="Logout"
+        android:id="@+id/logout"></item>
+
+</menu>
